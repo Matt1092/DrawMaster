@@ -3,7 +3,7 @@
  * All methods required for a Line object are found here.
  *
  * @author Matthew Moga
- * @version January 20, 2022
+ * @version January 20, 2024
  */
 
 
