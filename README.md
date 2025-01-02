@@ -28,6 +28,22 @@ This Java Paint Program is a simple drawing application built using the Swing fr
     java ShapePainter
     ```
 
+## Required Files
+
+The application requires the following PNG files to be present in the root directory of the repository:
+- `colour.png`
+- `line.png`
+- `roundrect.png`
+- `rectangle.png`
+- `oval.png`
+- `undo.png`
+- `redo.png`
+- `fill.png`
+- `empty.png`
+- `savetofile.png`
+
+Make sure these files are uploaded to the repository before running the application.
+
 ## Usage
 
 - **Drawing Shapes**:
