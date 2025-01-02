@@ -1,4 +1,4 @@
-# Java Paint Program
+# DrawMaster
 
 This Java Paint Program is a simple drawing application built using the Swing framework. It allows users to draw various shapes such as lines, rectangles, round rectangles, and ovals. The application also supports features like undo, redo, and saving the drawn image to a file.
 
@@ -14,8 +14,8 @@ This Java Paint Program is a simple drawing application built using the Swing fr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/paint-program.git
-    cd paint-program
+    git clone https://Matt1092.com/your-username/DrawMaster.git
+    cd DrawMaster
     ```
 
 2. **Compile the application**:
