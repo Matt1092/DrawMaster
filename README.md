@@ -10,7 +10,7 @@ This Java Paint Program is a simple drawing application built using the Swing fr
 - **Undo and Redo**: Users can undo and redo their actions.
 - **Save to File**: The drawn image can be saved as a PNG file.
 
-## Installation
+## Installation and Running
 
 1. **Clone the repository**:
     ```bash
