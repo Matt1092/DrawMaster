@@ -1,3 +1,18 @@
+/**
+ * LinkedList.java
+ *
+ * This class implements a singly linked list data structure. It provides
+ * methods to perform standard operations such as adding elements to the front
+ * or back of the list, removing elements from the front, checking if the list
+ * is empty, clearing the list, checking if the list contains a certain element,
+ * getting the size of the list, and converting the list to a string representation.
+ *
+ * @param <T> the type of elements in this linked list
+ * 
+ * Created by: Matthew Moga
+ * Date: January 2, 2025
+ */
+
 class LinkedList<T> implements LinkedListADT<T> {
     private ListNode<T> front = null;
     private ListNode<T> back = null;
