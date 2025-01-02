@@ -14,7 +14,7 @@ This Java Paint Program is a simple drawing application built using the Swing fr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://Matt1092.com/your-username/DrawMaster.git
+    git clone https://github.com/Matt1092/DrawMaster.git
     cd DrawMaster
     ```
 
