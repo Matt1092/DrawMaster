@@ -1,6 +1,4 @@
 /**
- * LinkedListADT.java
- *
  * This interface defines the abstract data type for a singly linked list.
  * It specifies the standard operations that can be performed on a linked list,
  * such as adding elements to the front, removing elements from the front, 
@@ -10,8 +8,8 @@
  *
  * @param <T> the type of elements in this linked list
  * 
- * Created by: Matthew Moga
- * Date: January 2, 2025
+ * @author Matthew Moga
+ * @version April 26, 2024
  */
 
 public interface LinkedListADT<T> {
