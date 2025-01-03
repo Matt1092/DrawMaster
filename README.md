@@ -77,7 +77,19 @@ Make sure these files are uploaded to the repository before running the applicat
 
 ## Screenshots
 
-Include some screenshots of the application in use here.
+Here are some screenshots of the DrawMaster application in action:
+
+### Main Interface
+![Main Interface](https://github.com/Matt1092/DrawMaster/blob/main/screenshots/main_interface.png)
+
+### Drawing Shapes
+![Drawing Shapes](https://github.com/Matt1092/DrawMaster/blob/main/screenshots/drawing_shapes.png)
+
+### Color Picker
+![Color Picker](https://github.com/Matt1092/DrawMaster/blob/main/screenshots/color_picker.png)
+
+### Saving Drawings
+![Saving Drawings](https://github.com/Matt1092/DrawMaster/blob/main/screenshots/saving_drawings.png)
 
 
 ## License
