@@ -1,14 +1,12 @@
 /**
- * ListNode.java
- *
  * This class represents a node in a singly linked list. Each node contains data and a reference to the next node in the list.
  * It provides constructors to create a node with or without a reference to the next node, as well as accessor and mutator methods
  * to get and set the node's data and the reference to the next node.
  *
  * @param <T> the type of elements in this node
  * 
- * Created by: Matthew Moga
- * Date: January 2, 2025
+ * @author Matthew Moga
+ * @version April 26, 2024
  */
 
 public class ListNode<T> {
