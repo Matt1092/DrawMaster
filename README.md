@@ -78,7 +78,6 @@ Make sure these files are uploaded to the repository before running the applicat
 ## Screenshots
 
 Include some screenshots of the application in use here.
-![Uploading image.png…]()
 
 
 ## License
