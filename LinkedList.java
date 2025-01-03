@@ -1,6 +1,4 @@
 /**
- * LinkedList.java
- *
  * This class implements a singly linked list data structure. It provides
  * methods to perform standard operations such as adding elements to the front
  * or back of the list, removing elements from the front, checking if the list
@@ -9,8 +7,8 @@
  *
  * @param <T> the type of elements in this linked list
  * 
- * Created by: Matthew Moga
- * Date: January 2, 2025
+ * @author Matthew Moga
+ * @version April 26, 2024
  */
 
 class LinkedList<T> implements LinkedListADT<T> {
