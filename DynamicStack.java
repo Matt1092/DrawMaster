@@ -1,14 +1,12 @@
 /**
- * DynamicStack.java
- *
  * This class implements a stack data structure using a singly linked list.
  * It provides typical stack operations such as push, pop, peek, isEmpty, and size.
  * The stack follows the Last-In-First-Out (LIFO) principle.
  *
  * @param <T> the type of elements in this stack
  * 
- * Created by: Matthew Moga
- * Date: January 2, 2025
+ * @author Matthew Moga
+ * @version April 26, 2024
  */
 
 class DynamicStack<T> implements StackADT<T> {
