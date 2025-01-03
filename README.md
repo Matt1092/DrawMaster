@@ -27,6 +27,8 @@ This Java Paint Program is a simple drawing application built using the Swing fr
     ```bash
     java ShapePainter
     ```
+    
+    **Note:** Make sure your local machine has a graphical environment to display the GUI.
 
 ## Required Files
 
