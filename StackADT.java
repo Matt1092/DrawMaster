@@ -1,13 +1,11 @@
 /**
- * StackADT.java
- *
  * This interface defines the abstract data type for a stack. A stack is a collection that follows the Last-In-First-Out (LIFO) principle.
  * This interface provides standard stack operations such as push, pop, peek, isEmpty, size, clear, and toString.
  *
  * @param <T> the type of elements in this stack
  * 
- * Created by: Matthew Moga
- * Date: January 2, 2025
+ * @author Matthew Moga
+ * @version April 26, 2024
  */
 
 public interface StackADT<T> {
